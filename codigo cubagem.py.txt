@@ -1,0 +1,7 @@
+altura = 0.35
+largura = 0.45
+comprimento = 1.20
+qtd_vol = 10
+multiplicacao = altura * largura * comprimento * 300 * qtd_vol
+multiplicacao
+print('O peso cubado é', multiplicacao,'KG.')
